@@ -68,18 +68,18 @@ bash <(curl -s -L https://raw.githubusercontent.com/TLSminer/TLSMiner/main/insta
 > - 如果在部分地区下载过慢或是无法访问, 您可尝试备用安装地址
 
 ```
-bash <(curl -s -L -k https://rustminersystem.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/TLSminer/TLSMiner/main/install.sh) 
 ```
 
 > - 如果您是ARM架构处理器, 请使用以下命令安装
 
 ```
 # ARM
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/TLSminer/TLSMiner/main/install.sh) 
 ```
 ```
 # ARMV7
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/armv7-install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/TLSminer/TLSMiner/main/install.sh) 
 ```
 
 > - 成功运行后，您将看到以下菜单, 根据提示安装即可。
