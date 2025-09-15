@@ -392,7 +392,7 @@ disable_autostart() {
         rm /etc/systemd/system/$SERVICE_NAME.service
         systemctl daemon-reload
     else # 系统使用的是SysVinit
-        sed -i '/\/root\/cakesystem\/cakesystem\ &/d' /etc/rc.local
+        sed -i '/\/root\/vipor\/vipor\ &/d' /etc/rc.local
     fi
 
     sleep 1
@@ -537,7 +537,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="cakesystem-${1}"
+        ORIGIN_EXEC="vipor-${1}"
     fi
 
     echo $ORIGIN_EXEC
