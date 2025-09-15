@@ -88,7 +88,7 @@ bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm
 
 ### 加入聊天组
 
-<a href="https://t.me/rustkt" target="_blank">
+<a href="https://t.me/ViproMinerSystem" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
