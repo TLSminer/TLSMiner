@@ -1,13 +1,13 @@
 #!/bin/bash
 
-VERSION="4.5.7"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/1/linux"
-ORIGIN_EXEC="cakesystem-${VERSION}"
+VERSION="4.5.6"
+DOWNLOAD_HOST="https://github.com/TLSminer/TLSMiner/raw/main/linux"
+ORIGIN_EXEC="vipor-${VERSION}"
 
-SERVICE_NAME="cakesystemservice"
+SERVICE_NAME="viporservice"
 
-PATH_RUST="/root/cakesystem"
-PATH_EXEC="cakesystem"
+PATH_RUST="/root/vipor"
+PATH_EXEC="vipor"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"
