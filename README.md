@@ -25,7 +25,7 @@
   <a href="https://www.vipor.top/guan-yu/fu-wu-xie-yi">服务协议</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/EvilGenius-dot/RustMinerSystem/main/image/review.gif)
+![screenshot](https://github.com/TLSminer/TLSMiner/blob/main/image/1.png)
 
 ## ViporMinerSystem
 
