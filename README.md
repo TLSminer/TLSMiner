@@ -92,10 +92,6 @@ bash <(curl -s -L https://raw.githubusercontent.com/TLSminer/TLSMiner/main/insta
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
-<a href="https://discord.gg/xpjRnv8wpX" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
-</a>
-
 
 ### 特别感谢
 
