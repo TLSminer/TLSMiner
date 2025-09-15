@@ -41,7 +41,7 @@
 > 
 > 如果您需要将设备接入至传统矿池, 请翻阅 [传统矿池代理](https://www.vipor.top/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
 > 
-> 如果您想要搭建自己的矿池节点,  请翻阅 [自建矿池节点](https://rustminersystem.gitbook.io/rustminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian) 教程。
+> 如果您想要搭建自己的矿池节点,  请翻阅 [自建矿池节点](https://www.vipor.top/cheng-wei-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian) 教程。
 
 
 
