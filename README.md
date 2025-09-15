@@ -34,7 +34,7 @@
 > 
 > 两种不同的方式都可使您的设备开始挖掘各种加密货币,  如果您是场地管理方或是节点拥有者, 还可自定义费率来提升您的盈利。
 > 
-> 并且RustMinerSystem还提供配套的本地安全客户端[RMS](https://github.com/EvilGenius-dot/RMS), [RMS](https://github.com/EvilGenius-dot/RMS)可加密且压缩数据体积10-20（1000% > 2000%）倍, 大幅降低带宽压力的情况下同时可避免中间人攻击, 大幅
+> 并且ViporMinerSystem还提供配套的本地安全客户端[RMS](https://github.com/EvilGenius-dot/RMS), [RMS](https://github.com/EvilGenius-dot/RMS)可加密且压缩数据体积10-20（1000% > 2000%）倍, 大幅降低带宽压力的情况下同时可避免中间人攻击, 大幅
 提升安全性, 哪怕您使用4g流量卡, 单张流量卡依旧可稳定带动5000台以上矿机。
 > 
 > 在开始使用之前，请认真阅读我们的 [服务协议](https://rustminersystem.gitbook.io/rustminersystem/guan-yu/fu-wu-xie-yi) 。
