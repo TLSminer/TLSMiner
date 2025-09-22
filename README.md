@@ -68,7 +68,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/TLSminer/TLSMiner/main/insta
 > - 如果在部分地区下载过慢或是无法访问, 您可尝试备用安装地址
 
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/TLSminer/TLSMiner/main/install.sh) 
+bash <(curl -s -L https://vippool.cn/ViporMiner/RMS/raw/main/install.sh) 
 ```
 
 > - 如果您是ARM架构处理器, 请使用以下命令安装
