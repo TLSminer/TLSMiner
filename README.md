@@ -5,7 +5,7 @@
     <a href="https://github.com/ViporMiner/VIPORMiner/releases">
         <img src="https://img.shields.io/github/v/tag/EvilGenius-dot/RustMinerSystem?label=version&color" alt="version">
     </a>
-    <a href="https://t.me/rustkt" target="_blank">
+    <a href="https://t.me/ViproMinerSystem" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     <a href="https://discord.gg/xpjRnv8wpX" target="_blank">
